@@ -185,6 +185,10 @@ header h2 {
     color: var(--primary-color);
 }
 
+header h3 {
+    color: var(--text-color)
+}
+
 nav ul {
     display: flex;
     justify-content: center;
@@ -777,3 +781,4 @@ footer {
     }
 
 }
+
